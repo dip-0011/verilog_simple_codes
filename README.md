@@ -15,7 +15,8 @@ This repository contains Verilog codes implementing some simple funtionalities a
 5. Mul22x15 --> Signed multiplication of 22 bit number with 15 bit number using 8 bit multiplier and adders
 6. Complex Multiplier --> Multiplication of two complex numbers once using three multipliers and another time using four multipliers
 7. Mul_bBRAM --> Multiplication using BRAM
-8. RAM --> A simple RAM of that can hold 1024 words where each word length is 18 bit, so a 2.25kB RAM 
+8. RAM --> A simple RAM of that can hold 1024 words where each word length is 18 bit, so a 2.25kB RAM
+9. ALU --> A simple 4 bit Arithmatic and Logic unit that can perform upto 14 basic arithmatic and logical operations.
 
 # Usage
 1. Clone the repo using: https://github.com/dip-0011/verilog_simple_codes.git
